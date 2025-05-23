@@ -1,0 +1,25 @@
+{
+  "name": "slow-lane-coding",
+  "version": "1.0.0",
+  "description": "Repositório para acompanhar os conteúdos do curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbonuccelli/slow-lane-coding.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbonuccelli/slow-lane-coding/issues"
+  },
+  "homepage": "https://github.com/hbonuccelli/slow-lane-coding#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.89.0"
+  }
+}
